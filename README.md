@@ -1,8 +1,8 @@
 # Regex Data Extraction
 
-This project demonstrates how to extract various types of structured data from unstructured text using the power of **Regular Expressions** in Python.
+This project demonstrates how to extract various types of structured data from unstructured text using the power of Regular Expressions in Python.
 
-## Ì¥ç Extracted Data Types
+##  Extracted Data Types
 
 The script detects the following:
 
@@ -35,5 +35,6 @@ The script detects the following:
 
 - Python 3
 - `re` module (for Reular Expressions)
+- 'time' module
 
 
