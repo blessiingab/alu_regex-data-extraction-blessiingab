@@ -1,9 +1,8 @@
 
-Email addresses:
-user@example.com
+Email addresses
 firstname.lastname@company.co.uk
-mm_urairi19@alumni.alastudens.com
-123bode@yahoo.co.hu.com
+b.ingabire1@alustudent.com
+info@rra.gov.rw
 URLs:
 https://www.example.comLinks to an external site.
 https://subdomain.example.org/pageLinks to an external site.
@@ -15,17 +14,17 @@ Credit card numbers:
 1234 5678 9012 3456
 1234-5678-9012-3456
 Time:
-14:30 (24-hour format)
-2:30 PM (12-hour format)
-5:25 pm
-3:50 PM
-4:40 am
+16:20 (24-hour format)
+7:56 PM (12-hour format)
+3:55 pm
+2:10 PM
+8:00 am
 
 HTML tags:
 <p>
 <div class="example">
 <img src="image.jpg" alt="description">
-Hashtags:
+Hashtags
 #example
 #ThisIsAHashtag
 Currency amounts:
